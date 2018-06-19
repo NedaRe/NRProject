@@ -1,0 +1,11 @@
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.csproj.CoreCompileInputs.cache
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.AssemblyInfoInputs.cache
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.AssemblyInfo.cs
+C:\GIT\NRProject\Practice\Practice\bin\Debug\netcoreapp2.0\UI.deps.json
+C:\GIT\NRProject\Practice\Practice\bin\Debug\netcoreapp2.0\UI.runtimeconfig.json
+C:\GIT\NRProject\Practice\Practice\bin\Debug\netcoreapp2.0\UI.runtimeconfig.dev.json
+C:\GIT\NRProject\Practice\Practice\bin\Debug\netcoreapp2.0\UI.dll
+C:\GIT\NRProject\Practice\Practice\bin\Debug\netcoreapp2.0\UI.pdb
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.dll
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.pdb
+C:\GIT\NRProject\Practice\Practice\obj\Debug\netcoreapp2.0\UI.csprojResolveAssemblyReference.cache

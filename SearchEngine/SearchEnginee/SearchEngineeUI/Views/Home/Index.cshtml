@@ -1,0 +1,31 @@
+﻿ 
+@section scripts {
+    <script type="text/javascript">
+      
+        function search() {
+            var url = "/Search/Search/";
+            $.post(url)
+                .done(function(response) {
+                    $("#btnSearch").html(response);
+                });
+
+        }
+    </script>
+}
+ 
+  
+    <div class="center_div col-md-6" id="listOfCustomers">
+        
+        <form class="form-inline container center_div">
+            <div class="form-group">
+                <input id="txtSearchKey" class="form-control input-lg" placeholder="Search" required autofocus>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-lg btn-primary" id="btnSearch"onclick="search()"> <span class="glyphicon glyphicon-search"> Search</span></button>
+            </div>
+        </form>
+
+
+    </div>
+ 
+@Html.Partial("_Result")
